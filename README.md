@@ -1,0 +1,2 @@
+# The-DeFi-Triforce-Strategy
+We have developed a strategy that creates synergy between Ethereum, MakerDAO, and YearnFinance. We call it the DeFi triforce strategy1 because these three projects are three core elements of a financial system; 1) Ethereum: a settlement layer with a ledger of transactions, 2) MakerDAO: a protocol allowing stable forms of payments to do all kinds of transactions and 3) Yearn Finance: a protocol that is an automated stabilizing mechanism that profits from arbitrage opportunities while reducing the spreads between different currencies.
